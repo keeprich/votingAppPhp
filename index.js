@@ -1,7 +1,7 @@
 $(document).ready(function() {
     // alert("Am in");
-
-    function fetch_pool_result( ) {
+    fetch_pool_data();
+    function fetch_pool_data( ) {
         $.ajax({
             url: "fetch_poll_data.php",
             method: "POST",
