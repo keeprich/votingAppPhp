@@ -20,7 +20,7 @@
 <br>
 <div class="row">
 <div class="col-md-6">
-<form action="" method="post" id="poll_form">
+<form  method="post" id="poll_form">
 <h3>Who this the Best</h3>
 <br>
 <div class="radio">
